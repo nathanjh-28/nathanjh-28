@@ -5,12 +5,9 @@ I am a software engineer who enjoys discovering how technologies work and optimi
 
 Languages: JavaScript - Python - PHP 
 
-
 Frameworks: Node Express - Django - Flask
 
-
 Databases: MongoDB - SQL - PostgreSQL - MySQL - SQLite
-
 
 Frontend: React- HTML - CSS - SASS
 
