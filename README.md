@@ -4,8 +4,14 @@
 I am a software engineer who enjoys discovering how technologies work and optimizing them for users. I am passionate about making tools that help people with their everyday lives by stripping away obstacles that block them from what matters most. I use my background in lighting console programming to bridge the divide between people and technology.
 
 Languages: JavaScript - Python - PHP 
+
+
 Frameworks: Node Express - Django - Flask
+
+
 Databases: MongoDB - SQL - PostgreSQL - MySQL - SQLite
+
+
 Frontend: React- HTML - CSS - SASS
 
 <!--
