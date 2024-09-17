@@ -1,15 +1,13 @@
 ## Nathan J Harris
 
 
-I am a software engineer who enjoys discovering how technologies work and optimizing them for users. I am passionate about making tools that help people with their everyday lives by stripping away obstacles that block them from what matters most. I use my background in lighting console programming to bridge the divide between people and technology.
+I’m a software developer and current computer science student with a unique background in lighting console programming for major film productions. After a successful career working with academy award winning talent, I transitioned into software development to apply my problem-solving and communication skills to new challenges. I specialize in building tools that simplify complex processes and help people focus on what matters most.
 
-Languages: JavaScript - Python - PHP 
+With a strong mix of technical expertise and creativity, I’ve worked on systems programming, machine learning research, and full-stack applications. I’m passionate about creating impactful software solutions and collaborating with talented teams to solve difficult problems.
 
-Frameworks: Node Express - Django - Flask
+As I complete my computer science studies, I’m focused on roles where I can leverage my diverse experience and technical skills to build innovative solutions for businesses and users.
 
-Databases: MongoDB - SQL - PostgreSQL - MySQL - SQLite
-
-Frontend: React- HTML - CSS - SASS
+Feel free to connect: nathan@nathanjharris.com
 
 <!--
 **nathanjh-28/nathanjh-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
