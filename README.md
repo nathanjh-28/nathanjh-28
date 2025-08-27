@@ -1,11 +1,11 @@
 ## Nathan J Harris
 
 
-I’m a software developer and current computer science student with a unique background in lighting console programming for major film productions. After a successful career working with academy award winning talent, I transitioned into software development to apply my problem-solving and communication skills to new challenges. I specialize in building tools that simplify complex processes and help people focus on what matters most.
+I’m a software developer and recent computer science graduate with a unique background in lighting console programming for major film productions. After a successful career working with academy award winning talent, I transitioned into software development to apply my problem-solving and communication skills to new challenges. I specialize in building tools that simplify complex processes and help people focus on what matters most.
 
 With a strong mix of technical expertise and creativity, I’ve worked on systems programming, machine learning research, and full-stack applications. I’m passionate about creating impactful software solutions and collaborating with talented teams to solve difficult problems.
 
-As I complete my computer science studies, I’m focused on roles where I can leverage my diverse experience and technical skills to build innovative solutions for businesses and users.
+I’m focused on roles where I can leverage my diverse experience and technical skills to build innovative solutions for businesses and users.
 
 Feel free to connect: nathan@nathanjharris.com
 
